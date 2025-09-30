@@ -1,1 +1,1 @@
-# deneme-web-sitem
+# yazılımsektor
